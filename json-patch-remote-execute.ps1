@@ -1,0 +1,1 @@
+Import-Module https://raw.githubusercontent.com/bondarenkod/vsts-mobile-tasks/master/json-path.ps1
