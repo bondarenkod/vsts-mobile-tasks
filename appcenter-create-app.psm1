@@ -7,7 +7,7 @@
 #     "os": "iOS",
 #     "platform": "Xamarin"
 #   }
-# curl -X POST "https://api.appcenter.ms/v0.1/orgs/Avantime/apps" -H  "accept: application/json" -H  "X-API-Token: 2cb63f7528e5a535122373841c46ae57ba5e7a35" -H  "Content-Type: application/json" -d "{  \"description\": \"test from api\",  \"display_name\": \"test-to-delete\",  \"name\": \"test-to-delete\",  \"os\": \"iOS\",  \"platform\": \"Xamarin\"}"
+# curl -X POST "https://api.appcenter.ms/v0.1/orgs/Avantime/apps" -H  "accept: application/json" -H  "X-API-Token: 2cb63562dfsd4fsdf32rfsdf5e7a35" -H  "Content-Type: application/json" -d "{  \"description\": \"test from api\",  \"display_name\": \"test-to-delete\",  \"name\": \"test-to-delete\",  \"os\": \"iOS\",  \"platform\": \"Xamarin\"}"
 
 Function AppCenter-CreateApp {
 
